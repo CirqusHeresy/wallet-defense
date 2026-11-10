@@ -16,7 +16,7 @@ We are not publishing names or addresses here. We are publishing what it taught 
 | | |
 |---|---|
 | **What was lost** | Hot-wallet assets, swept in one session |
-| **How** | **[FOUNDER: the confirmed or most likely vector — e.g. signed malicious approval, leaked seed phrase, compromised device. Leave "unknown" if unknown.]** |
+| **How** | Entry point not publicly confirmed. The three usual suspects — a malicious signature, a leaked seed phrase, a compromised device — are all covered by the lessons below. |
 | **What the attacker did next** | Converted assets and moved them to a centralized exchange |
 | **How he was found** | The attacker reused his own identity: a public NFT-marketplace profile connected the stolen wallet to eight others |
 | **What it proved** | On-chain theft is not anonymous by default. Attackers get lazy. Evidence survives. |
